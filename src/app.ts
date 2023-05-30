@@ -58,4 +58,4 @@ if (isDebug)
   client.on('debug', console.log);
 }
 
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN); /** where bot tokens comes
